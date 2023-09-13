@@ -1,0 +1,5 @@
+*Show him how I picked the Z(is that correct) ? yes it is correct
+*how to calculate the rKL and the pex ?
+*is the way Im proceeding for creating the relevance score vector is correct ? yes its fine
+*why do I not get the same value as him for the ER ?
+
