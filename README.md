@@ -1,3 +1,4 @@
+ # Background
  As data-driven decision-making and recommenders systems are gaining ground the
  quality, and fairness rankings have become major issues that should be carefully studied.
  These problems are highly linked to how individuals in a ranking are ordered. In
